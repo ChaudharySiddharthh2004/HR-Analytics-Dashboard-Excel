@@ -21,12 +21,13 @@ The objective of this project is to build a dynamic HR dashboard that allows use
 ---
 
 ## 📸 Dashboard Preview
-
-> *(Add your dashboard screenshot here)*
-
 ![HR Dashboard](img1.png)
+
+## 📸 Department Preview
 ![HR Dashboard](img2.png)
-![HR Dashboard](img3.png)
+
+## 📸 Employee Details Preview
+![HR Dashboard](img1.png)
 
 ---
 
