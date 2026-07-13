@@ -27,7 +27,7 @@ The objective of this project is to build a dynamic HR dashboard that allows use
 ![HR Dashboard](img2.png)
 
 ## 📸 Employee Details Preview
-![HR Dashboard](img1.png)
+![HR Dashboard](img3.png)
 
 ---
 
